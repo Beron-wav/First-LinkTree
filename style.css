@@ -1,0 +1,21 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #8A2BE2;  /* Violett/Blaue Hintergrundfarbe */
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #000;  /* Schwarze Überschriften */
+}
+
+a {
+  color: #FF4500;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
